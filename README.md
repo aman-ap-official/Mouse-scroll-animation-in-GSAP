@@ -22,11 +22,7 @@ This project demonstrates how to create a stunning mouse scroll animation using 
 
 ## 🎬 Demo
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/20508094-3bc0-4951-b4a5-1a592f644e8b" target="_blank">
-    <img src="https://img.youtube.com/vi/20508094-3bc0-4951-b4a5-1a592f644e8b/maxresdefault.jpg" alt="Mouse Scroll Animation Demo">
-  </a>
-</p>
+[🎥 Click here to view the demo video](https://github.com/user-attachments/assets/20508094-3bc0-4951-b4a5-1a592f644e8b)
 
 > **Click on the video preview above to watch the full demo.**
 
