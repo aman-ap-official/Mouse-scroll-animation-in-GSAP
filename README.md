@@ -60,3 +60,6 @@ To get started, simply:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/aman-ap-official/mouse-scroll-animation-gsap.git
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/aman-ap-official">Aman AP</a>
+</p>
